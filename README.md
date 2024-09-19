@@ -13,7 +13,7 @@ markdown 실습
 2. R
 3. java
 * python
-    *html
+    * html
 
 **markdown 실습**
 *markdown 실습*
